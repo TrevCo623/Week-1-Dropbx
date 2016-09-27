@@ -6,9 +6,9 @@ It took me roughly 8-10 hours over the past few days to complete this (and admit
 
 I completed required stories 1-7 for the most part. I ran into some issue where some of my buttons would force the app to crash when trying to move to a Tab Bar Controller. 
 
-![DBox_Welcome](Dbox1.gif)
+![DBox1](Dbox1.gif)
 
-![DBox_Create_TOC](Dbox1.1.gif)
+![DBox1.1](Dbox1.1.gif)
 
 ![DBox2](Dbox2.gif)
 
