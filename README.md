@@ -1,4 +1,4 @@
-# Wk1-HW---Dbox
+# Wk1-HW-Dbox
 
 This is the Week 1 Assignment to complete the dropbox app. 
 
