@@ -7,7 +7,11 @@ I completed stories 1-7, though admittedly there are some issues, mainly with so
 Here's the gifs.
 
 ![Gif 1](DBox1.gif)
+
 ![Gif 1.1](DBox1.1.gif)
+
 ![Gif 2](DBox2.gif)
+
 ![Gif 3](DBox3.gif)
+
 ![Gif 4](DBox4.gif)
