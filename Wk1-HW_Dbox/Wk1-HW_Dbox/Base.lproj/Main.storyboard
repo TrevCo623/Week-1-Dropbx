@@ -144,7 +144,7 @@
             <objects>
                 <viewController id="8Lx-IN-Xp0" customClass="LoggedOut_ViewController" customModule="Wk1_HW_Dbox" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="UVB-f2-aRo">
-                        <rect key="frame" x="0.0" y="0.0" width="320" height="1000"/>
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <imageView opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" misplaced="YES" image="create_account" id="3n4-VC-bmB">
@@ -570,7 +570,7 @@
             <objects>
                 <viewController id="5RN-G6-6HF" customClass="LoggedOut_ViewController" customModule="Wk1_HW_Dbox" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="H2X-aM-bsY">
-                        <rect key="frame" x="0.0" y="0.0" width="320" height="1000"/>
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <imageView opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" misplaced="YES" image="sign_in1" id="W9B-EE-CfU">
@@ -659,7 +659,7 @@
             <objects>
                 <viewController id="NG4-Qb-V00" customClass="SignIn_ViewController" customModule="Wk1_HW_Dbox" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="lzw-Q0-v9n">
-                        <rect key="frame" x="0.0" y="0.0" width="320" height="1000"/>
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <imageView opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" misplaced="YES" image="logged_out" id="uXX-nl-kLi">
@@ -687,7 +687,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="71x-lR-f2z" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="2501" y="1116"/>
+            <point key="canvasLocation" x="2501" y="900"/>
         </scene>
         <!--Navigation Controller-->
         <scene sceneID="Toa-Cc-sXY">
